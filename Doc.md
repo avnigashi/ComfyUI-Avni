@@ -327,11 +327,3 @@ graph LR
     F[RETURN_TYPES] -.-> D
 ```
 
-
-[The rest of the document continues with detailed explanations for each section, including Advanced Node Features, Frontend Development, API Integration, Error Handling, Performance Optimization, etc., each with appropriate placeholders for graphs where visual representation would be beneficial.]
-
-## Appendix: Full Example Nodes
-
-[Include full code examples of complex nodes here, such as a Video Viewer Node and a Dynamic Type Converter Node, with placeholders for graphs illustrating their structure and functionality]
-
-Remember to always refer to the latest ComfyUI documentation, as APIs and best practices may evolve over time. Happy node creation!
